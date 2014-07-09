@@ -1,6 +1,8 @@
 {
     "name": "mattbrown/laracurl",
     "description": "Laravel 4.2.X Package Wrapper For Andreas Lutro's OOP cURL Class",
+    "keywords": ["framework", "laravel", "curl", "Laracurl"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Matthew Brown",
