@@ -18,7 +18,7 @@ Run the usual `composer update` to pull the files.  Then, add the following **Se
 ```php
 'providers' => array(
 	...
-	Mattbrown\Laracurl\LaracurlServiceProvider,
+	'Mattbrown\Laracurl\LaracurlServiceProvider',
 );
 ```
 
