@@ -13,4 +13,11 @@ To install the package, simple add the following to your Laravel installation's 
 },
 ```
 
-Then, run the usual `composer update` to pull the files.  Then, add the **Service Provider** `Mattbrown\Laracurl\LaracurlServiceProvider` to your `app/config/app.php`.
+Run the usual `composer update` to pull the files.  Then, add the following **Service Provider** to your `$providers` array in your `app/config/app.php` config.
+
+```php
+'providers' => array(
+	...
+	Mattbrown\Laracurl\LaracurlServiceProvider,
+);
+```

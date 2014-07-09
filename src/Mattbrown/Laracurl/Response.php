@@ -3,8 +3,8 @@
 /**
  * Laravel 4.2.x cURL Wrapper
  *
- * @author   Matthew Brown <bbrink68@gmail.com>
  * @author   Andreas Lutro <anlutro@gmail.com>
+ * @author   Matthew Brown <bbrink68@gmail.com>
  * @license  http://opensource.org/licenses/MIT
  * @package  Laracurl
  */
