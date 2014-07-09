@@ -1,0 +1,20 @@
+{
+    "name": "mattbrown/laracurl",
+    "description": "Laravel 4.2.X Package Wrapper For Andreas Lutro's OOP cURL Class",
+    "authors": [
+        {
+            "name": "Matthew Brown",
+            "email": "bbrink68@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Mattbrown\\Laracurl\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
