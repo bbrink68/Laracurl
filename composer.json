@@ -1,6 +1,6 @@
 {
     "name": "mattbrown/laracurl",
-    "description": "Laravel 4.2.X Package Wrapper For Andreas Lutro's OOP cURL Class",
+    "description": "Laravel 5.X Package Wrapper For Andreas Lutro's OOP cURL Class",
     "keywords": ["framework", "laravel", "curl", "Laracurl"],
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "5.*"
     },
     "autoload": {
         "psr-0": {
