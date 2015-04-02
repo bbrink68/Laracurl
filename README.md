@@ -3,8 +3,8 @@ Laracurl
 
 Laravel cURL Wrapper for [Andreas Lutro's](https://github.com/anlutro/php-curl) OOP cURL Class
 
-## [For Laravel 5](https://github.com/bbrink68/Laracurl/blob/2.0.0/)
-## [For Laravel 4](https://github.com/bbrink68/Laracurl/blob/1.0.0/)
+### [For Laravel 5](https://github.com/bbrink68/Laracurl/blob/2.0.0/README.md)
+### [For Laravel 4](https://github.com/bbrink68/Laracurl/blob/1.0.0/README.md)
 
 # Installation
 To install the package, simply add the following to your Laravel installation's `composer.json` file
