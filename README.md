@@ -1,19 +1,19 @@
 Laracurl
 ========
 
-Laravel 4.2.x cURL Wrapper for [Andreas Lutro's](https://github.com/anlutro/php-curl) OOP cURL Class
+Laravel 5.x cURL Wrapper for [Andreas Lutro's](https://github.com/anlutro/php-curl) OOP cURL Class
 
 # Installation
 To install the package, simply add the following to your Laravel installation's `composer.json` file
 
 ```json
 "require": {
-	"laravel/framework": "4.2.*",
-	"mattbrown/laracurl": "dev-master"  
+	"laravel/framework": "5.*",
+	"mattbrown/laracurl": "2.0.0"  
 },
 ```
 
-Run the usual `composer update` to pull the files.  Then, add the following **Service Provider** to your `providers` array in your `app/config/app.php` config.
+Run the usual `composer update` to pull the files.  Then, add the following **Service Provider** to your `providers` array in your `config/app.php` config.
 
 ```php
 'providers' => array(
