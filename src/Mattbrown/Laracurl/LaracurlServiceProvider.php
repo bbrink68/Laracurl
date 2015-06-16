@@ -18,8 +18,8 @@ class LaracurlServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('mattbrown/laracurl');
-	}
+        //
+    }
 
 	/**
 	 * Register the service provider.
